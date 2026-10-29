@@ -1,0 +1,11 @@
+# Session outputs (use `git add -f` to keep a run as an example)
+runs/*
+!runs/.gitkeep
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

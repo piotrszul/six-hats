@@ -9,3 +9,7 @@ runs/*
 .DS_Store
 .idea/
 .vscode/
+
+# Playwright CLI / MCP scratch output
+.playwright-cli/
+.playwright-mcp/
